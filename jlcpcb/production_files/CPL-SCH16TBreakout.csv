@@ -1,0 +1,13 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,1uF,C_0603_1608Metric,44.61,-61.625,-90.0,top
+C2,100nF,C_0603_1608Metric,26.5,-61.95,-90.0,top
+C3,100nF,C_0603_1608Metric,44.61,-58.6,90.0,top
+C4,1uF,C_0603_1608Metric,44.61,-64.7,-90.0,top
+C5,1uF,C_0603_1608Metric,26.5,-64.975,-90.0,top
+D1,LED,LED_0603_1608Metric,25.7875,-53.7,0.0,top
+R1,10k,R_0603_1608Metric,46.2,-58.6,90.0,top
+R2,10k,R_0603_1608Metric,25.725,-59.7,0.0,top
+R3,10k,R_0603_1608Metric,25.725,-58.2,180.0,top
+R4,10k,R_0603_1608Metric,25.725,-56.7,180.0,top
+R5,1k,R_0603_1608Metric,25.725,-55.2,0.0,top
+U1,SCH16T-K01-1,SCH16TK011,35.61,-59.6,0.0,top
